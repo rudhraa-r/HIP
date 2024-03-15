@@ -8,7 +8,7 @@ const ctx = canvas.getContext('2d');
 
 
 // Store the buttons for place 5
-const place5Buttons = ['Hop', 'Hop', 'Hop', 'rightButton','Hop'];
+const place5Buttons = ['Hop', 'Hop', 'Hop', 'rightButton'];
 const tiles = [1, 2, 3, 4, 5]
 let availableButtons;
 
